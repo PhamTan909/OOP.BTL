@@ -4,6 +4,7 @@
 #include "WindowPlay.h"
 #include "WindowOption.h"
 #include "AboutWindow.h"
+//ádasdasd
 int main()
 {
 	//Tao khung window hien thi menu
