@@ -7,6 +7,8 @@
 //ádasdasd
 //ád
 //ádasd
+//tan 123
+
 int main()
 {
 	//Tao khung window hien thi menu
